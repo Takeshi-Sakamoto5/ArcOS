@@ -3,7 +3,7 @@
 The first operating system that executes a user’s cognitive structure at machine speed
 Complete Edition — Clone Architecture, Drift Elimination, Execution Pipeline
 
-Concept by: Takeshi Sakamoto
+Concept by: Masaya Ochiai
 Engineered with: ChatGPT 5.1 (ArcOS Engine)
 
 Related Project: PolyAgora — Multi-Agent Cognitive Engine
@@ -422,38 +422,36 @@ executables
 
 ArcOS is a natural-language OS.
 
-11. License — CC BY-NC-SA 4.0
+11.  License
 
-You may:
+This project uses a *three-layer license structure* designed to maximize
+open-source adoption while ensuring correct attribution of authorship and
+protection of project names (ArcOS / PolyAgora).
 
-learn
+### 1. Code License — Apache License 2.0  
+All source code in this repository is licensed under the **Apache License 2.0**.  
+This allows free use, modification, distribution, and commercial adoption.
 
-adapt
+A copy of the license is included in the `LICENSE` file.
 
-remix
+### 2. Documentation License — CC BY 4.0  
+All documentation, conceptual explanations, system diagrams, and text content  
+are licensed under the **Creative Commons Attribution 4.0 International License (CC BY 4.0)**.
 
-publish non-commercial derivatives
+You must provide attribution to:
 
-You must:
+**Masaya Ochiai**  
 
-attribute
+when redistributing or adapting any documentation.
 
-keep non-commercial
+A copy of this license is included in `LICENSE_docs`.
 
-share alike
+### 3. Trademarks — "ArcOS" and "PolyAgora"  
+The names **"ArcOS"** and **"PolyAgora"** are trademarks of **Masaya Ochiai**.  
+They may not be used for modified versions or commercial products without permission.
 
-You may not:
+See `TRADEMARK_POLICY.md` for details.
 
-monetize
-
-restrict others
-
-remove attribution
-
-Related Projects
-
-PolyAgora — Multi-Agent Cognitive Engine
-https://github.com/Takeshi-Sakamoto5/PolyAgora
 
 12. Final Note
 
