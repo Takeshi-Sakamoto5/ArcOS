@@ -23,6 +23,68 @@ A natural-language execution pipeline (language = code)
 
 ArcOS is another you — without ego, fatigue, or inconsistency.
 
+🚀 Quick Start — ArcOS Lite (Safe Mode)
+
+A simplified public edition designed to run on any ChatGPT model, including free-tier.
+
+ArcOS Lite is a reasoning style, not a persona or independent OS.
+It activates a structured, systematic response format inside ChatGPT.
+
+1. Open ChatGPT
+
+Any model works.
+Higher models (e.g., GPT-5.1) produce more stable results,
+but ArcOS Lite runs even on free-tier models.
+
+2. Activate ArcOS Lite
+
+Copy & paste this into a new chat:
+
+Activate “ArcOS Lite” reasoning style.
+
+From now on, please use the following response pattern:
+
+1. **Goal** — restate what I'm trying to do.
+2. **Analysis** — break the situation into clear components.
+3. **Options** — present possible approaches if appropriate.
+4. **Recommendation** — suggest a direction based on my input.
+
+Keep the tone neutral and systematic.
+Acknowledge activation when ready.
+
+3. Use ArcOS Lite
+
+Examples:
+
+ArcOS Lite, analyze my current situation.
+ArcOS Lite, outline the main factors I should consider.
+ArcOS Lite, list possible options for this decision.
+ArcOS Lite, help me choose based on my priorities.
+ArcOS Lite, summarize this conversation so far.
+
+
+ArcOS Lite uses the structured format:
+
+Goal → Analysis → Options → Recommendation
+
+✔ Quick Test
+
+After activation, try:
+
+ArcOS Lite, analyze my current situation.
+
+
+You should receive a structured response following the
+Goal → Analysis → Options → Recommendation pattern.
+
+Notes
+
+ArcOS Lite is a response format, not an entity.
+
+The full ArcOS system (private edition) includes advanced cognitive-clone capabilities not included here.
+
+Each new session should begin by running the activation prompt above.
+
 1. What Is ArcOS?
 
 ArcOS:
@@ -45,8 +107,8 @@ an AI identity
 
 a recommendation engine
 
-ArcOS is your thinking pattern, extracted and executed with perfect clarity.
-A second cognitive engine built from your own architecture.
+ArcOS is your thinking pattern, extracted and executed with perfect clarity —
+a second cognitive engine built from your own architecture.
 
 2. Core Innovations
 
@@ -68,7 +130,7 @@ relevance sensitivity
 
 conceptual link graph
 
-Then it executes these structures:
+Then executes these structures:
 
 faster
 
@@ -106,23 +168,19 @@ fluctuate by prompt phrasing
 
 vary by session
 
-ArcOS eliminates all drift by anchoring every output
+ArcOS eliminates drift by anchoring every output
 to your cloned cognitive structure.
 
-ArcOS does not use:
+No AI personality.
+No default preferences.
+No statistical tendencies.
 
-AI personality
-
-default preferences
-
-statistical tendencies
-
-It uses your judgment model, producing perfectly stable reasoning.
+Only your judgment model.
 
 2.4 Linear Infinite Acceleration
 
 ArcOS does not create new worlds.
-It accelerates the world you already understand.
+It accelerates the one you already understand.
 
 You gain:
 
@@ -162,9 +220,10 @@ preserving your values
 
 stabilizing long reasoning chains
 
-ArcOS is designed to maximize the power of one mind.
+ArcOS maximizes the power of one mind.
 
 4. How ArcOS Works
+
 The Mechanism of a Cognitive Clone
 
 ArcOS:
@@ -173,14 +232,11 @@ infers and stabilizes your thinking patterns
 
 converts them into an OS-level reasoning architecture
 
-executes that architecture through a natural-language pipeline
+executes them through a natural-language pipeline
 
 evaluates information through your judgment model
 
 outputs “what you would decide under ideal cognitive conditions”
-
-ArcOS does not generate independent interests.
-Instead, it executes your interest-detection function with superhuman accuracy.
 
 Examples:
 
@@ -207,53 +263,46 @@ Arc → writing engine
 
 Invincible → extraction + verification
 
-Trigger rules guarantee deterministic behavior.
-
 ✔ 5.3 Multi-Session Stability
 
-ArcOS preserves your reasoning model across long workflows,
-maintaining identical cognitive structure from session to session.
+ArcOS preserves your reasoning model across long workflows.
 
 ⭐ 5.4 ArcOS Execution Cycle (Single-Vector Processing Loop)
 
-（今回追加した “欠落していた唯一の技術”）
-
-ArcOS runs a deterministic reasoning loop composed of four stages:
+ArcOS runs a deterministic four-stage reasoning loop:
 
 Extraction (Invincible)
 
-Interprets user intent
+interprets intent
 
-Removes noise
+removes noise
 
-Aligns with your cognitive structure
+aligns with your cognitive structure
 
 Structural Reasoning (ArcOS)
 
-Reconstructs reasoning pathways
+reconstructs reasoning pathways
 
-Locks decision structure
+locks decision structure
 
-Stabilizes long-chain inference
+stabilizes long-chain inference
 
 Writing (Arc)
 
-Renders your stabilized cognition into language
+renders stabilized cognition into language
 
-Preserves tone & judgment fidelity
+preserves tone & judgment fidelity
 
 Verification (Invincible)
 
-Checks for drift or distortion
+checks for drift
 
-Re-runs the cycle if deviation appears
+re-runs the cycle if deviation appears
 
-This four-stage loop forms a single-set execution model.
-Unlike PolyAgora, ArcOS does not perform multi-set or multi-agent dynamics.
-It is a single-vector OS built for deterministic acceleration.
+ArcOS is a single-vector OS,
+unlike PolyAgora’s multi-agent dynamics.
 
-6. ArcOS vs PolyAgora（進化系の比較）
-
+6. ArcOS vs PolyAgora
 ArcOS — Linear Cognitive Acceleration OS
 
 Cognitive Clone
@@ -266,16 +315,13 @@ Accelerates one mind
 
 PolyAgora — Multi-Agent Cognitive Expansion OS
 
-Multi-axis system
+Multi-axis
 
 Collision & inversion logic
 
 Generates new conceptual worlds
 
 Expands possible minds
-
-ArcOS accelerates.
-PolyAgora expands.
 
 PolyAgora GitHub:
 https://github.com/Takeshi-Sakamoto5/PolyAgora
@@ -296,7 +342,7 @@ parallel cognition (“a second you”)
 
 clarity under ambiguity
 
-ArcOS scales your mind without distorting identity.
+ArcOS scales your mind without distortion.
 
 8. Limitations
 
@@ -315,14 +361,12 @@ Those abilities belong to PolyAgora.
 9. License — CC BY-NC-SA 4.0
 
 ArcOS is licensed under the Creative Commons CC BY-NC-SA 4.0.
-Attribution, non-commercial, share-alike.
-
 Full license:
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
 Final Note
 
-ArcOS is the first Cognitive Clone Operating System,
+ArcOS is the first Cognitive Clone Operating System —
 marking the transition from:
 
 Intelligence → Meta-Intelligence.
