@@ -194,6 +194,18 @@ Rendering Layer:
 - drift rollback  
 - model realignment  
 
+## 5.6 Persistent Cognitive Layer
+
+ArcOS uses a **persistent cognitive layer** that stabilizes its reasoning 
+patterns across sessions. This provides long-horizon consistency beyond 
+a single conversational run and prevents drift between interactions.
+
+The internal mechanism is intentionally abstracted; only the conceptual 
+interface is publicly exposed.
+
+
+
+
 ---
 
 # 6. Persona Restriction Layer
