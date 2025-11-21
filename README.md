@@ -1,4 +1,7 @@
 # 🚀 ArcOS v1.0 — Cognitive Clone Operating System
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17675771.svg)](https://doi.org/10.5281/zenodo.17675771)
+
 **The first OS that executes *your* cognitive architecture in pure natural language.**
 
 **Concept by:** Masaya Ochiai  
