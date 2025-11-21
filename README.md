@@ -233,6 +233,14 @@ Tell me:
 
 Expected: ArcOS Lite should respond using your stated preferences.
 
+
+## 🧠 ArcOS Lite Installer  
+👉 [INSTALL_ArcOS_LITE.md](./INSTALL_ArcOS_LITE.md)
+
+Use this to reproduce the ArcOS-style “Cognitive Clone” reasoning format  
+in any GPT-like model (GPT-4/5, Grok, Claude, etc.).
+
+
 ---
 
 # 🧪 7. Usage Examples
